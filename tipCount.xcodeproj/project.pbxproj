@@ -22,6 +22,7 @@
 		AF04E32A1DC0448D00F6B1D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF04E32D1DC0448D00F6B1D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF04E32F1DC0448D00F6B1D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF04E3351DC0E00800F6B1D7 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 				AF04E3231DC0448D00F6B1D7 /* AppDelegate.swift */,
 				AF04E3251DC0448D00F6B1D7 /* ViewController.swift */,
 				AF04E3271DC0448D00F6B1D7 /* Main.storyboard */,
+				AF04E3351DC0E00800F6B1D7 /* MyPlayground.playground */,
 				AF04E32A1DC0448D00F6B1D7 /* Assets.xcassets */,
 				AF04E32C1DC0448D00F6B1D7 /* LaunchScreen.storyboard */,
 				AF04E32F1DC0448D00F6B1D7 /* Info.plist */,
@@ -300,6 +302,7 @@
 				AF04E3341DC0448D00F6B1D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
